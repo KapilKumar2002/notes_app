@@ -68,7 +68,7 @@ This app follows **Clean Architecture**:
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/KapilKumar2002/notes_app.git
-cd flutter-notes-app
+cd notes_app
 ```
 
 ### 2. Install dependencies
